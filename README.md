@@ -1,7 +1,7 @@
 # Winter Internship
 No mundo contemporâneo, a sustentabilidade e as tecnologias estão cada vez mais alinhadas, trabalhando em conjunto para criar um futuro melhor e mais consciente. A integração dessas duas áreas tem o potencial de gerar impactos positivos em diversas esferas, desde a conservação ambiental até a eficiência energética e a melhoria da qualidade de vida das pessoas.
 
-As tecnologias têm um papel fundamental no desenvolvimento sustentável, pois proporcionam soluções inovadoras e eficientes para os desafios ambientais que enfrentamos. Aqui estão alguns exemplos de como a sustentabilidade e as tecnologias podem se unir para criar um mundo melhor.
+As tecnologias têm um papel fundamental no desenvolvimento sustentável, pois proporcionam soluções inovadoras e eficientes para os desafios ambientais que enfrentamos. 
 
 ## Backend
 No backend, desenvolvemos uma API utilizando as seguintes tecnologias:
